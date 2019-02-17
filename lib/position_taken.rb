@@ -3,3 +3,4 @@ puts board.inspect
 puts index
 if index[] == " "
 end
+end 
